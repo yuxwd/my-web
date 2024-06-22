@@ -49,10 +49,13 @@ export const metadata: Metadata = {
 export default function Speaking() {
   return (
     <SimpleLayout
-      title="I’ve spoken at events all around the world and been interviewed for many podcasts."
-      intro="One of my favorite ways to share my ideas is live on stage, where there’s so much more communication bandwidth than there is in writing, and I love podcast interviews because they give me the opportunity to answer questions instead of just present my opinions."
+      title="我曾经写过许多的文章，希望能够分享给你，给你带来力量。"
+      intro="我最喜欢分享的方式就是写文章，我觉得文章可以更加全面的解释，说明观点，希望他能给你带来力量。也希望你能提出建议，谢谢。"
     >
-      <h1>暂未开通</h1>
+      <dev>
+        <h1>这里什么都没有哦！</h1>
+      </dev>
+      {/* 
       <div className="space-y-20">
         <SpeakingSection title="Conferences">
           <Appearance
@@ -93,7 +96,7 @@ export default function Speaking() {
             cta="Listen to podcast"
           />
         </SpeakingSection>
-      </div>
+      </div> */}
     </SimpleLayout>
   )
 }

@@ -11,10 +11,10 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
-    name: 'myblog',
+    name: 'mywed',
     description:
       '我的博客·此网站',
-    link: { href: 'https://github.com/yuxwd/myblog', label: 'github.com' },
+    link: { href: 'https://github.com/yuxwd/mywed', label: 'github.com' },
     logo: logoPlanetaria,
   },
   // {
