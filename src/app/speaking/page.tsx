@@ -52,9 +52,6 @@ export default function Speaking() {
       title="我曾经写过许多的文章，希望能够分享给你，给你带来力量。"
       intro="我最喜欢分享的方式就是写文章，我觉得文章可以更加全面的解释，说明观点，希望他能给你带来力量。也希望你能提出建议，谢谢。"
     >
-      <dev>
-        <h1>这里什么都没有哦！</h1>
-      </dev>
       {/* 
       <div className="space-y-20">
         <SpeakingSection title="Conferences">
