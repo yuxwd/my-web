@@ -15,7 +15,7 @@ const projects = [
     description:
       '我的博客·此网站',
     link: { href: 'https://github.com/yuxwd/mywed', label: 'github.com' },
-    logo: logoPlanetaria,
+    logo: logoAnimaginary,
   },
   // {
   //   name: 'Animaginary',
